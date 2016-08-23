@@ -1,0 +1,15 @@
+{
+  "name": "stellies-drive",
+  "version": "0.0.1",
+  "description": "This is an enhanced version of the stellenbosch engineering drive community (goo.gl/QMQqq6)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Robinson",
+  "license": "ISC",
+  "dependencies": {
+    "google-auth-library": "^0.9.8",
+    "googleapis": "^12.3.0"
+  }
+}
