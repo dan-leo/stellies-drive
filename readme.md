@@ -1,1 +1,1 @@
-This is an enhanced version of goo.gl/QMQqq6
+This is an idea to aid in file sharing
